@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dumello</string>
+    <string name="fb_app_id">1068347743295004</string>
+    <string name="fb_login_protocol_scheme">fb1068347743295004</string>
+</resources>

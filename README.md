@@ -1,2 +1,4 @@
-# Dumello
-Funny joke sharing app.
+Dumello_client
+===============
+
+20% Dumello client project.
